@@ -36,7 +36,7 @@
                 <p>
                         Străbunicii noștri au condus o mică restaurant în care preparau cu dragoste și atenție fiecare fel de 
                     mâncare. Rețetele lor, transmise din tată în fiu, din mamă în fiică, poartă în ele amintiri și valori care 
-                    ne-au modelat pe toți. Aceștia nu mâncau doar pentru a se sătula, ci pentru a reconecta cu rădăcinile și 
+                    ne-au modelat pe toți. Aceștia nu mâncau doar pentru a se sătura, ci pentru a reconecta cu rădăcinile și 
                     tradițiile care ne definesc.
                 </p>
                 <p>
@@ -58,26 +58,30 @@
                     Date importante.
                 </h3>
                 <div class="dates">
-                    1952 : Deschiderea primului restaurant
+                    Deschiderea primului restaurant
                     <hr>
+                    1952
                 </div>
                 <div class="dates">
+                    1968
                     <hr>
-                    Rețetele devin celebre regional : 1978
+                    Rețetele devin celebre regional
                 </div>
                 <div class="dates">
-                    2010 : Prezență online
+                    Prezență online
                     <hr>
+                    2005
                 </div>
                 <div class="dates">
+                    2026
                     <hr>
-                    Această platformă : 2026
+                    Această platformă
                 </div>
             </div>
         </div>
     </div>
     <div id="footer">
-        <p>&copy; 2026 Mancarea lui Fatu Mihai. Toate drepturile rezervate.</p>
+        <p>&copy; 2026 Mâncarea lui Fătu Mihai. Toate drepturile rezervate.</p>
     </div>
 </body>
 </html>

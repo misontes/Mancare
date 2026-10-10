@@ -19,5 +19,8 @@
         </div>
         <div id="nav-spacer"></div>
     </div>
+    <div id="footer">
+        <p>&copy; 2026 Mâncarea lui Fătu Mihai. Toate drepturile rezervate.</p>
+    </div>
 </body>
 </html>
