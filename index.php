@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mancare</title>
+    <title>Mâncare</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <div id="header">
         <div id="menu-bar">
-            <a href="index.php">Acasă</a>
+            <a href="index.php" style="text-decoration: underline;">Acasă</a>
             <a href="retete.php">Rețete</a>
             <a href="bucatari.php">Bucătari</a>
             <a href="restaurante.php">Restaurante</a>
+            <a href="galerie.php">Galerie</a>
         </div>
         <div id="titlu">
-            <h1>Mancare pentru toate gusturile! </h1>
+            <h1>Mâncare pentru toate gusturile! </h1>
         </div>
         <div id="nav-spacer"></div>
     </div>
@@ -25,7 +26,7 @@
         </h2>
         <div id="display-history">
             <div id="display-family">
-                <h3>
+                <h3 style="text-decoration: none;">
                     Totul a început în familie.
                 </h3>
                 <p>
@@ -48,13 +49,16 @@
                 </p>
             </div>
             <div id="display-img">
-                <h3>
+                <h3 style="text-decoration: none;">
                     Noi. În poze.
                 </h3>
-                <img src="img/logo-photo.jpg">
+                <div style="position: relative;">
+                    <img src="img/family-photo1.webp" style="height:210px; width:370px; position: absolute; left: 50px; top: 0px;">
+                    <img src="img/family-photo2.avif" style="height:210px; width:370px; position: absolute; left: 180px; top: 250px;">
+                </div>
             </div>
             <div id="display-imp-dates">
-                <h3>
+                <h3 style="text-decoration: none;">
                     Date importante.
                 </h3>
                 <div class="dates">

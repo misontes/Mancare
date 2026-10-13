@@ -1,0 +1,49 @@
+.flex-1{
+    flex:1;
+}
+#chefs{
+    display:flex;
+    padding: 10px;
+}
+.display-chefs{
+    flex:2;
+}
+.circle{
+    border: 3px solid #344e41;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    fill:#344e41;
+}
+.fill-circle{
+    background-color: #344e41;
+}
+.display-rating{
+    display: flex;
+    flex:2;
+    flex-direction: row;
+}
+.rating-spacer{
+    flex:1;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid #344e41;
+    padding: 5px;
+}
+tr{
+    border: 3px solid #344e41;
+}
+th{
+    border: 1px solid #344e41;
+}
+td{
+    padding: 10px;
+    border: solid 1px #344e41;
+    font-size: 17px;
+}
+td:first-child {
+    font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
